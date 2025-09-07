@@ -2,14 +2,14 @@
 <p align="center">
   <img src="interface.gif" alt="Website view" width="700">
 </p>
-## 🎯 Proje Amacı
+🎯 Proje Amacı
 
 Bu sistem, Vestel markasına ait şikayetleri otomatik olarak toplayan, analiz eden ve görselleştiren kapsamlı bir AI çözümüdür. Proje, modern web scraping teknikleri, doğal dil işleme ve makine öğrenmesi ile şikayet verilerini anlamlı insights'lara dönüştürür.
 
 - **Kategori Tespiti**: 59 farklı Vestel ürün kategorisi
 - **Sebep Analizi**: 10 ana şikayet sebebi kategorilendirmesi
 - **Fuzzy Matching**: LLM çıktılarını mevcut kategorilerle akıllı eşleştirme
-  - *Örnek: "TV" → "Televizyon", "diğer" → "Diğer"*
+  - *Örnek: "Şikayetvar.com sitesindeki şikayet içeriği" → "Televizyon", "Teknik Servis"*
 - **JSONL Processing**: Verimli analiz
 
 ### Ana Hedefler:
