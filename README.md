@@ -1,5 +1,7 @@
 # 🎯 Vestel Şikayet Analiz Sistemi
-
+<p align="center">
+  <img src="interface.gif" alt="Website view" width="700">
+</p>
 ## 🎯 Proje Amacı
 
 Bu sistem, Vestel markasına ait şikayetleri otomatik olarak toplayan, analiz eden ve görselleştiren kapsamlı bir AI çözümüdür. Proje, modern web scraping teknikleri, doğal dil işleme ve makine öğrenmesi ile şikayet verilerini anlamlı insights'lara dönüştürür.
